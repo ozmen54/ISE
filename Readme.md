@@ -5,7 +5,7 @@ This is the **readme** file.
 This is another line.
 ---
 
-[Sakarya University](www.sakarya.edu.tr)
+[Sakarya University](http://www.sakarya.edu.tr)
 
 ---
 
